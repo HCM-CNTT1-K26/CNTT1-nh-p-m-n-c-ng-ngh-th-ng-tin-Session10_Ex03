@@ -1,4 +1,4 @@
-# CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session04_Ex09d
+# CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session010_Ex03
  **Phần 1. Phân tích bài toán: Cơ chế Token và Hiệu quả xử lý của Markdown**
 
 Trong các mô hình ngôn ngữ lớn (LLM), văn bản không được xử lý theo từng ký tự hay từng từ hoàn chỉnh mà được chia nhỏ thành các đơn vị gọi là **Token** (có thể là một từ, một phần của từ, hoặc ký tự đặc biệt). Việc lựa chọn định dạng dữ liệu ảnh hưởng trực tiếp đến số lượng token, chi phí và tốc độ phản hồi:
